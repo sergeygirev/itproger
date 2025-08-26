@@ -10,7 +10,28 @@
 # print('Result:', numb1 // numb2)
 # word = 'Hi'
 # print(word * 2)
-# homework from chatgpt
+#
+# # homework from chatgpt
 # name = input('Ваше имя:')
 # age = input('Ваш возраст:')
-# print('Привет,',name,'!''Тебе',age,'лет.')
+# city = input('Ваш город:')
+# print('Привет,',name,'!' 'Тебе',age,'лет.' 'Ты живешь в городе', city)
+#
+# a = 123
+# b = 456
+# temp = a
+# a = b
+# b = temp
+# a, b = b, a
+# print(a, b)
+#
+# length = 4
+# width = 3
+# print('square:', length * width)
+#
+# rate = 100
+# price=int(input('Dollars:'))
+# print('RSD:', price * rate)
+#
+# year_of_birth = 1997
+# print('My age is:', 2025 - year_of_birth)

@@ -1,4 +1,4 @@
-# переменные
+# # переменные
 # number = 5 # int
 # # print('Result:', number)
 # del number
