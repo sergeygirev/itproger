@@ -1,4 +1,4 @@
-# # переменные
+# # conditions and logical expressions
 # number = 5 # int
 # # print('Result:', number)
 # del number

@@ -1,4 +1,4 @@
-# lesson5
+# # conditional statements (if/else)
 # if 5 == 5:
 #     print('yes')
 #     print('!!!')

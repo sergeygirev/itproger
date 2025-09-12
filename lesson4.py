@@ -1,3 +1,4 @@
+# # variables and data types (age calculator)
 # numb1 = int(input('Введите первое число:'))
 # # string
 # numb2 = int(input('Введите первое число:'))
